@@ -18,11 +18,9 @@ Attribute Information:
 
 In this Case Study, you would be seeing multiple Machine Learning Models
 
-1.Logistic Regression Model
-  ![image](https://user-images.githubusercontent.com/53809748/114146703-8a726000-9935-11eb-9189-ad3fe34459af.png)
+* Logistic Regression Model
+![image](https://user-images.githubusercontent.com/53809748/114146703-8a726000-9935-11eb-9189-ad3fe34459af.png)
 
-
-
-2. SoftMax Logistic Regression Model
-  ![image](https://user-images.githubusercontent.com/53809748/114146901-bee61c00-9935-11eb-9adb-66433bca61d2.png)
+* SoftMax Logistic Regression Model
+![image](https://user-images.githubusercontent.com/53809748/114146901-bee61c00-9935-11eb-9adb-66433bca61d2.png)
 
